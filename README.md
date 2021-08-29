@@ -1,4 +1,4 @@
-## YelpCamp From Web Developer BootCamp By Colt Steele
+## YelpCamp
 
 YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of [Colt Steele's Web Dev course on udemy.](https://www.udemy.com/share/101W9CBksfd1lRRng=/)
 
